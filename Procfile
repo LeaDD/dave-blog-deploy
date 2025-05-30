@@ -1,0 +1,1 @@
+web: funicorn main:app
